@@ -31,8 +31,8 @@ ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC;
 
 
--- SQL and Excel are the most frequently required skills, appearing in over 6 job postings each.
+-- Senior and specialized roles (Senior Business & Data Analyst, AI Research Engineer) command salaries above ₹100L, showing strong strategic value.
 
--- Python and R follow closely, indicating strong demand for both programming and documentation capabilities.
+-- These roles consistently require advanced skills — Python, SQL, Power BI, ML frameworks (Scikit-learn/TensorFlow), and cloud platforms (AWS/Azure/GCP).
 
--- Visualization tools like Tableau and Power BI are also prominent, emphasizing the importance of data storytelling.
+-- The highest-paying jobs are concentrated in tech, finance, and healthcare multinationals, reflecting mature data ecosystems and global demand.

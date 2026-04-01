@@ -14,10 +14,9 @@ GROUP BY skills
 ORDER BY skill_count DESC
 LIMIT 10;
 
--- SQL is the most dominant skill, appearing in over 3,000 job postings — a must-have for any data analyst.
+
+-- SQL dominates with over 3,000 postings, making it the single most essential skill for Data Analysts in India.
 
 -- Python and Excel are nearly tied for second place, showing strong demand for both programming and spreadsheet proficiency.
 
--- Visualization tools like Tableau and Power BI are essential for data storytelling.
-
--- Statistical tools (R, SAS) remain highly relevant, especially in traditional analytics and research-heavy roles.
+-- Visualization tools like Tableau and Power BI plus statistical tools (R, SAS) remain highly relevant, especially in analytics and research-heavy roles.
