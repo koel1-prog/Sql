@@ -1,4 +1,5 @@
 -- Top 10 Most In-Demand Skills for Data Analyst Jobs in India
+
 SELECT 
     skills,
     count(skills_job_dim.job_id) AS skill_count
