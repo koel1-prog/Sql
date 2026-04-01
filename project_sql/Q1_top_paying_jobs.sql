@@ -8,7 +8,6 @@ SELECT
     salary_year_avg,
     job_posted_date,
     company_dim.name AS company_name
-
 FROM 
     job_postings_fact
 LEFT JOIN 
