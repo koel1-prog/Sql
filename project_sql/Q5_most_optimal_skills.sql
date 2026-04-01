@@ -1,4 +1,5 @@
 -- Top High-Demand and High-Paying Skills for Remote Data Analyst Jobs
+
 WITH skills_demand AS (
     SELECT 
         skills_job_dim.skill_id,
