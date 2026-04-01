@@ -1,4 +1,5 @@
 -- Top 25 Highest-Paying Skills for Remote Data Analyst Jobs
+
 SELECT 
     skills,
     ROUND(AVG(salary_year_avg),0) AS avg_salary
