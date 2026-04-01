@@ -42,8 +42,8 @@ LIMIT 25;
 
 
 
--- High-paying niche skills like PySpark ($208K) and Bitbucket ($189K) appear in only 2 postings each, showing they’re rare but extremely lucrative.
+-- High-paying niche skills like PySpark ($208K) and Bitbucket ($189K) are rare (only 2 postings each), but extremely lucrative — showing scarcity drives premium pay.
 
--- Widely demanded skills such as Pandas (9 postings, $151K) and Databricks (10 postings, $141K) balance strong demand with competitive salaries, making them practical career investments.
+-- Balanced skills such as Pandas (9 postings, $151K) and Databricks (10 postings, $141K) combine strong demand with solid salaries, making them the most practical career investments.
 
--- Supporting tools like NumPy, Airflow, Scala, and PostgreSQL combine moderate demand (3–5 postings each) with salaries in the $122K–143K range, highlighting their steady relevance in remote analytics.
+-- Supporting tools like NumPy, Airflow, Scala, PostgreSQL hold steady relevance with moderate demand (3–5 postings) and salaries in the $122K–143K range, ensuring versatility in remote analytics.
