@@ -31,8 +31,8 @@ ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC;
 
 
--- Specialized roles like Senior Business & Data Analyst and AI Research Engineer offer salaries well above ₹100L, reflecting high strategic value.
+-- Senior and specialized roles (Senior Business & Data Analyst, AI Research Engineer) command salaries above ₹100L, showing strong strategic value.
 
--- These roles consistently demand advanced skills like Python, SQL, Power BI, ML frameworks, and cloud platforms.
+-- These roles consistently require advanced skills — Python, SQL, Power BI, ML frameworks (Scikit-learn/TensorFlow), and cloud platforms (AWS/Azure/GCP).
 
--- Top-paying jobs are concentrated in tech, finance, and healthcare sectors, often from multinational firms with mature data ecosystems.
+-- The highest-paying jobs are concentrated in tech, finance, and healthcare multinationals, reflecting mature data ecosystems and global demand.
